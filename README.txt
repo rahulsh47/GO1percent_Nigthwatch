@@ -51,7 +51,14 @@ Test Description
 12. Successful Login    
     Verify successful login with valid credentials.
 
+*Command to set up the Nightwatch into New Project
+    -npm init Nightwatch
+*Command to install the Chromedriver
+    -npm install chromedriver
+*Command to run the Test using Terminal :
+    - npm test
 
 #Contributing
 Contributions are welcome! If you find any issues or have suggestions, 
 please open an issue or submit a pull request.
+

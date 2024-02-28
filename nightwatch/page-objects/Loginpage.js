@@ -107,7 +107,7 @@ module.exports = {
            },
            RememberMeClick : function(){
             return this
-                .waitForElementVisible('@RememberMeBtn',10000)
+                .waitForElementVisible('@RememberMeBtn',5000)
                 .click('@RememberMeBtn')
            },
            ClickForgotPassword: function(){
